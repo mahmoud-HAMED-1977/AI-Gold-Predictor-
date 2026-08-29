@@ -1,0 +1,6 @@
+{
+  "name": "التنبؤ الذكي بالذهب AI Gold Predictor",
+  "description": "نظام تحليل وتنبؤ ذكي احترافي لحركة أسعار الذهب XAU/USD مدعوم بمحركات التحليل الفني والأساسي والاقتصادي ومخاطر السوق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
